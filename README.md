@@ -39,9 +39,10 @@
 
 ### openstackも使える
 
-- 試していない
+- openstack 試していない
 - https://qiita.com/nakkoh/items/503d5a442b33029baaeb
-
+- virtualbox 試していないexperimental
+- https://github.com/terra-farm/terraform-provider-virtualbox
 
 
 ### terraform libvirtでvm作成
@@ -204,3 +205,11 @@ kubeadm, kubelet, kubectlを入れる
 - CNI(calico,flannelなど)についておおまかな説明
 - https://thinkit.co.jp/article/19007
 
+
+NUCサイズのPC相場例
+
+- 8core 16GB 500GB SSD クーポンつけて\54800
+- https://www.amazon.co.jp/dp/B0B5T7RZSS
+
+- 4core 8GB 256GB SSD クーポンつけて\20990
+- https://www.amazon.co.jp/gp/product/B09V7XQQYP
