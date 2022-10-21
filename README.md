@@ -2,14 +2,14 @@
 
 ## CRI(Container Rutime Interface)はDockerからContainerdへ
 
-https://www.slideshare.net/KoheiTokunaga/dockercontainerd
-kubernetesは、1.20からDocker非推奨、1.24からDockerサポート削除予定らしいよ。後継は下位のcontainerd
+- https://www.slideshare.net/KoheiTokunaga/dockercontainerd
+- kubernetesは、1.20からDocker非推奨、1.24からDockerサポート削除予定らしい。後継は下位のcontainerd
 
 ## Hasicorpが作ってるIaCのツールTerraformは、Cloudサービス/libvirtd上でVMの作成/削除ができる golang製
 
 ## kubesprayはAnsibleからkubeadmを打つもの
 
-## HELMは事実上の標準ツールらしいよyaml形式のChartを食わせてdeployするらしい　golang製
+## HELMは事実上の標準ツールらしいyaml形式のChartを食わせてdeployするらしい　golang製
 
 # 詳細
 
